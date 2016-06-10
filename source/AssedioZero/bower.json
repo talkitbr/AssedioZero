@@ -1,0 +1,6 @@
+{
+  "name": "AssedioZero",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
